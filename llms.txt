@@ -3,6 +3,7 @@
 > 국내 3D 프린팅 완제품 굿즈·피규어 마켓플레이스, 맞춤 주문제작·출력대행 비교, STL 모델 거래, 메이커 셀러 수익화 및 커뮤니티 활용 가이드를 제공하는 독립 에디토리얼 매거진.
 
 ## 발행된 가이드 목록
+- [3D 프린팅 소재 완벽 비교 — PLA·PETG·ABS·TPU·레진(SLA) 물성·내열성·가격 선택 가이드](https://tykim3493.github.io/kr-3dprint-guide/posts/3d-printing-materials-pla-petg-tpu-resin-guide.html) — 3D 프린팅 굿즈 구매나 출력 대행 의뢰 전 꼭 알아야 할 대표 소재 5종(PLA, PETG, ABS, TPU, 광경화 레진)의 강도, 내열성, 표면 품질, 비용 차이를 한눈에 비교합니다.
 - [3D 프린팅 시제품 제작 역경매 비교견적 vs 즉시견적 사이트 선택 전략](https://tykim3493.github.io/kr-3dprint-guide/posts/3d-printing-prototype-reverse-auction-vs-direct-quote.html) — 기업·스타트업·창작자가 3D 프린팅 시제품이나 소량 부품을 외주 제작할 때, 단일 업체 즉시 견적과 다수 메이커 역경매 비교견적 플랫폼의 장단점·비용·리드타임을 비교합니다.
 - [2026 국내 3D 프린팅 굿즈·피규어 쇼핑몰 & 마켓플레이스 목적별 비교 가이드](https://tykim3493.github.io/kr-3dprint-guide/posts/korea-3d-printing-goods-marketplace-guide.html) — 완제품 3D 프린팅 굿즈, 커스텀 키링·무드등·피규어 구매부터 직접 제작한 창작품 판매까지 목적별 국내외 플랫폼 특징을 한눈에 비교합니다.
 - [3D 프린팅 주문제작·출력 대행 사이트 비교 및 FDM·레진 비용 가이드](https://tykim3493.github.io/kr-3dprint-guide/posts/3d-printing-custom-order-fdm-resin-comparison.html) — STL 도면이 있을 때의 실시간 자동견적 출력대행과 도면이 없을 때의 주문제작 비교견적(역경매) 플랫폼을 비교하고 FDM·레진 선택 기준을 정리합니다.
